@@ -2,7 +2,7 @@
 
 ## Partie 1 
 
-Lire le document scrum et faire un résumé de la méthode Scrum. Et faire un lexique de chaque terme qui vous paraît vous faire avancer dans le projet de la partie 2.
+Lire le document scrum et faire un **résumé** de la méthode Scrum. Et faire un **lexique** de chaque terme qui vous paraît pertinent dans la méthode à expliciter.
 
 ## Partie 2
 
